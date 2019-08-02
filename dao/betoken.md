@@ -2,7 +2,7 @@
 
 **Purpose:** Making optimal investment decisions for a decentralized hedge fund.
 
-**Current Stage:** Betoken Beta running on Rinkeby Testnet with ~70 managers, waiting for security audit in order to launch on Mainnet.
+**Current Stage:** Betoken Beta running on Rinkeby Testnet with ~130 managers, launched on Ethereum Mainnet.
 
 ## Governed Objects & Mechanics <a id="governed-objects-and-mechanics"></a>
 
